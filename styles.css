@@ -1,0 +1,252 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: Sacramento, cursive;
+  font-size: 25px;
+
+}
+
+h1{
+  margin-top: 0;
+  color: #91C788;
+}
+
+.subtitle{
+  color: #FF8882;
+
+}
+
+h2{
+  color: #1B2021;
+}
+
+.title{
+  font-size: 90px;
+  margin-top: 60px;
+  line-height: 2px;
+
+
+}
+
+
+
+hr{
+  background-color: #EAF6F6 ;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 4%;
+  margin-top: 60px;
+}
+
+
+.top-container{
+  background-color: #E4F9F5;
+  padding-top: 20px;
+}
+
+.teenagemain{
+  position: absolute;
+  padding-right: 20px;
+  margin-left: 150px;
+
+}
+
+.about{
+  position: absolute;
+  padding-right: 20px;
+  margin-left: 180px;
+  margin-top:  20px;
+  font-family: Montserrat, sans-serif;
+
+}
+
+
+.notes{
+  position: absolute;
+  padding-right: 20px;
+  margin-left: 300px;
+  margin-top: 20px;
+  font-family: Montserrat, sans-serif;
+  }
+
+
+.work{
+  position: absolute;
+  padding-right: 20px;
+  margin-left: 410px;
+  margin-top: 20px;
+  font-family: Montserrat, sans-serif;
+}
+
+.top-cloud{
+  position: relative;
+  margin-left: 450px;
+  margin-top: 80px;
+
+
+}
+
+.bottom-cloud{
+  position: absolute;
+}
+
+.profile{
+  padding-top: 20px;
+  margin-top:60px;
+}
+
+
+.skills{
+  padding-top: 20px;
+  margin-top: 60px;
+}
+
+.Front-end{
+  margin-left: 150px;
+}
+
+.Programming{
+  padding-top: 20px;
+  margin-bottom:100px;
+  margin-left: 150px;
+}
+
+.contact-me{
+  padding-top: 20px;
+}
+
+
+.btn-hldr{
+  font-family: Montserrat, sans-serif;
+}
+.middle-container{
+  font-family: Montserrat, sans-serif;
+}
+
+.contact-me{
+  padding-top: 20px;
+  margin-top:60px;
+  font-family:  Montserrat, sans-serif;
+}
+
+.bottom-container{
+  background-color: #98DDCA;
+  padding-bottom: 10px;
+  margin-top:100px;
+  font-family:  Montserrat, sans-serif;
+}
+
+a:hover {
+  color: #FF8882 ;
+}
+
+.title1{
+  position: absolute;
+  padding-right: 30px;
+  margin-left: 140px;
+  margin-top:  40px;
+  font-family: Montserrat, sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+
+
+}
+
+.clgboy{
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 100px;
+
+}
+
+.teenageabout{
+  position: absolute;
+  padding-right: 20px;
+  margin-left: 120px;
+}
+
+.education{
+  margin-top: 150px;
+  margin-left: 130px;
+  font-family: Montserrat, sans-serif;
+  text-align: left;
+}
+
+.h2edn{
+  line-height: 45px;
+}
+
+.school{
+  font-family: Montserrat, sans-serif;
+  text-align: left;
+}
+
+.h2sch{
+  line-height: 0.2px;
+}
+
+.skills{
+  font-family: Montserrat, sans-serif;
+  text-align: center;
+
+}
+.coo{
+  margin-top: 20px;
+  margin-left: 50px;
+  font-family: Montserrat, sans-serif;
+  text-align: left;
+}
+.wrktxt{
+  margin-top: 70px;
+  font-family: Montserrat, sans-serif;
+}
+
+.presi{
+  margin-top: 30px;
+  margin-left: 100px;
+  font-family: Montserrat, sans-serif;
+  text-align: left;
+}
+
+.project{
+  font-family: Montserrat, sans-serif;
+  text-align: left;
+  margin-left: 50px;
+  margin-top: 70px;
+}
+
+.achv{
+  font-family: Montserrat, sans-serif;
+}
+
+.achvtxt{
+  margin-top: 90px;
+}
+
+.hult{
+  margin-top: 50px;
+}
+
+.achvhr{
+    background-color: #EAF6F6 ;
+    border-style: solid none none;
+    width: 10%;
+    border-width: 1.5px;
+
+}
+
+.engolymp{
+  margin-top: 70px;
+}
+
+.shoot{
+  margin-top: 70px;
+}
+
+.nso{
+  margin-top: 70px;
+}
+.ncc{
+  margin-top: 70px;
+}
